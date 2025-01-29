@@ -1,0 +1,3 @@
+C:/dev/projects/C++/OpenGL/Reactor++/build/CMakeFiles/main.dir
+C:/dev/projects/C++/OpenGL/Reactor++/build/CMakeFiles/edit_cache.dir
+C:/dev/projects/C++/OpenGL/Reactor++/build/CMakeFiles/rebuild_cache.dir

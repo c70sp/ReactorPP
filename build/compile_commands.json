@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\main.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\utils.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\utils.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/utils.cpp",
+  "output": "CMakeFiles/main.dir/src/utils.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\mesh3d.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\mesh3d.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/mesh3d.cpp",
+  "output": "CMakeFiles/main.dir/src/mesh3d.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\app.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\app.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/app.cpp",
+  "output": "CMakeFiles/main.dir/src/app.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\shader.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\shader.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/shader.cpp",
+  "output": "CMakeFiles/main.dir/src/shader.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\reactor.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\reactor.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/reactor.cpp",
+  "output": "CMakeFiles/main.dir/src/reactor.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\neutron.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\neutron.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/neutron.cpp",
+  "output": "CMakeFiles/main.dir/src/neutron.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\atom.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\atom.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/atom.cpp",
+  "output": "CMakeFiles/main.dir/src/atom.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\controlRod.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\controlRod.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/controlRod.cpp",
+  "output": "CMakeFiles/main.dir/src/controlRod.cpp.obj"
+},
+{
+  "directory": "C:/dev/projects/C++/OpenGL/Reactor++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\main.dir\\src\\text.cpp.obj -c C:\\dev\\projects\\C++\\OpenGL\\Reactor++\\src\\text.cpp",
+  "file": "C:/dev/projects/C++/OpenGL/Reactor++/src/text.cpp",
+  "output": "CMakeFiles/main.dir/src/text.cpp.obj"
+}
+]
