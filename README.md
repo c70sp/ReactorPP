@@ -14,3 +14,6 @@ Until then I need to do a lot more. <br>
 - (maybe) Branch of to a full NPP simulation
 <br>
 This project is by no means supposed to be even slighly realistic, this is just for the visualization of what is actually happening in the core, and is very very simplified.<br>
+<br>
+
+$${\color{orange}IMPORTANT}$$ This will likely not run on most hardware, as it is not any official release. If you want to run it, you need to recompile it yourself.
