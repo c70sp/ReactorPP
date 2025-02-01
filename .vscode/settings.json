@@ -80,6 +80,7 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "map": "cpp"
     }
 }
